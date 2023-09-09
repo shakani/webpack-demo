@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('./Oswald.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Oswald';
+    background: url('./icon.jpg');
+}
